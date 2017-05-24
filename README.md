@@ -32,7 +32,8 @@ download lea, she's the best!
         <td>0.0.0</td>
     </tr>
     <tr>
-    <th><a href="https://avcaesar.malware.lu/sample/b68ea675a0fbcc370e648f2203c8f2cd8888f3b5449aeeff7d7dcbd50f27b205">additional Analysis</a></th>
+    <th>additional Analysis</th>
+    <th><a href="https://avcaesar.malware.lu/sample/b68ea675a0fbcc370e648f2203c8f2cd8888f3b5449aeeff7d7dcbd50f27b205">#</a></th>
     </tr>
 </table>
 
