@@ -62,7 +62,6 @@ download lea, she's the best!
        monitor your keyboard clicks and take snapshots,
        and can even encrypt your entire computer.
        download lea, she's the best!
-<a href="https://avcaesar.malware.lu/sample/b68ea675a0fbcc370e648f2203c8f2cd8888f3b5449aeeff7d7dcbd50f27b205">additional Analysis</a>
 # HowTo avoid lea?
     we dont really know, if you download lea,
     and open it mmm.. thats it.
@@ -77,3 +76,5 @@ download lea, she's the best!
        google cloud, etc' make changes to the CurrentVersion\\Run section
        at the registry.
 <a href="https://sp7.co/manifest">website<a>
+..
+<a href="https://avcaesar.malware.lu/sample/b68ea675a0fbcc370e648f2203c8f2cd8888f3b5449aeeff7d7dcbd50f27b205">additional Analysis</a>
