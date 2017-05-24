@@ -31,6 +31,9 @@ download lea, she's the best!
         <th>Version</th>
         <td>0.0.0</td>
     </tr>
+    <tr>
+    <th><a href="https://avcaesar.malware.lu/sample/b68ea675a0fbcc370e648f2203c8f2cd8888f3b5449aeeff7d7dcbd50f27b205">additional Analysis</a></th>
+    </tr>
 </table>
 
 ![](gif.gif)
@@ -76,5 +79,3 @@ download lea, she's the best!
        google cloud, etc' make changes to the CurrentVersion\\Run section
        at the registry.
 <a href="https://sp7.co/manifest">website<a>
-..
-<a href="https://avcaesar.malware.lu/sample/b68ea675a0fbcc370e648f2203c8f2cd8888f3b5449aeeff7d7dcbd50f27b205">additional Analysis</a>
