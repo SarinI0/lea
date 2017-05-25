@@ -29,7 +29,11 @@ download lea, she's the best!
     </tr>
     <tr>
         <th>Version</th>
-        <td>0.0.0</td>
+        <td>0.0.1</td>
+    </tr>
+    <tr>
+        <th>Last-Modified</th>
+        <td>25.5.17</td>
     </tr>
     <tr>
     <th>additional Analysis</th>
