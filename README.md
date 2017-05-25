@@ -21,7 +21,7 @@ download lea, she's the best!
 <table>
 <tr>
        <th>Author's</th>
-       <td><a href="https://sarin.io">Numéro du projet sept sérine</a> (<a href="http://sp7.co">@Sp7</a>)</td>
+       <td><a href="https://sp7.co">Numéro du projet sept sérine</a> (<a href="http://sp7.co">@Sp7</a>)</td>
     </tr>
     <tr>
         <th>Copyright</th>
@@ -66,6 +66,7 @@ download lea, she's the best!
        monitor your keyboard clicks and take snapshots,
        and can even encrypt your entire computer.
        download lea, she's the best!
+       
 # HowTo avoid lea?
     we dont really know, if you download lea,
     and open it mmm.. thats it.
