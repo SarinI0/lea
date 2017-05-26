@@ -85,3 +85,4 @@ download lea, she's the best!
        google cloud, etc' make changes to the CurrentVersion\\Run section
        at the registry.
 <a href="https://sp7.co/manifest">website<a>
+..
